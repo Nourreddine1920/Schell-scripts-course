@@ -21,16 +21,27 @@ Operators, Logical or Boolean Operators, String Operators, File Test Operators)
 
 ➢ Repetitive statements (for, while, until loops), loop control statements (break, continue) 
 and Nested Loops
+
 ➢ Arrays
+
 ➢ Functions
+
 ➢ Local and Global Variables
+
 ➢ Executing other programs 
+
 ➢ Command line arguments
+
 ➢ Command line options (getopts)
+
 ➢ Signal Handling (Default action, Handling Signals and Ignoring Signals)
+
 ➢ Commands such as kill, trap, shift
+
 ➢ Debugging (set)
+
 ➢ Utilities: bc, cmp, diff, uniq, paste, join, cut, tr, sed
+
 
 ## Command Line Interpreter
 ➢Its job is to get and execute the next command 
